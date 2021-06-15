@@ -9,6 +9,9 @@ header h1 {
     color: white;
     text-align: center;
 }
+section img {
+    max-width: 100%;
+}
 a {
     font-size: 16px;
     color: aquamarine;
